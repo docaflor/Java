@@ -12,7 +12,7 @@
 //
 //FIRST PART
 public class main {
-public static void maina(string[] args) {
+public static void main(string[] args) {
   suma(a:5, b:6, c:8);
 }
 public static int suma(int a, int b, int c) {
