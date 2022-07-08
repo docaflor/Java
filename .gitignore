@@ -1,4 +1,16 @@
-# FIRT PART
+//Primera parte:
+//Crear una función con tres parámetros que sean números que se suman entre sí.
+//Llamar a la función en el main y darle valores.
+//Segunda parte:
+//Crear una clase coche.
+//Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
+//Una función que incremente el número de puertas que tiene el coche.
+//Crear un objeto miCoche en el main y añadirle una puerta.
+//Mostrar el número de puertas que tiene el objeto.
+//
+//
+//
+//FIRT PART
 public class main {
 public static void maina(string[] args) {
   suma(a:5, b:6, c:8);
@@ -8,8 +20,8 @@ public static int suma(int a, int b, int c) {
   sistem.out.println(resultado);
   return suma(resultado);
 }
-#
-#SECOND PART
+//
+//SECOND PART
 public class Coche {
  private int puertas;
  public coche(int puertas){
