@@ -1,1 +1,26 @@
-# Compiled class file
+# FIRT PART
+public class main {
+public static void maina(string[] args) {
+  suma(a:5, b:6, c:8);
+}
+public static int suma(int a, int b, int c) {
+  int resultado=a+b+b;
+  sistem.out.println(resultado);
+  return suma(resultado);
+}
+#
+#SECOND PART
+public class Coche {
+ private int puertas;
+ public coche(int puertas){
+   this.puertas=puertas;
+ }
+ public void printInfo(){
+   sistem.out.println("Puertas: " +puertas);
+ }
+ public static void main(string{} args){
+   coche auto=new coche(4);
+    auto.addpuertas(2);
+    autos.printInfo();
+ }
+}
